@@ -14,9 +14,6 @@ To extract, clean, analyze, and visualize Blinkit grocery sales data to gain act
 
 ### 🔹 Excel Dashboard
 
-> 📷 **Add Screenshot**  
-> Replace the image path below with your actual screenshot:
->  
 > ![Excel Dashboard Screenshot](Dashboard.png)
 
 ---
